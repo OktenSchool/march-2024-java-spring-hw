@@ -1,10 +1,10 @@
-package org.example.march2024springhw;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class March2024SpringHwApplicationTests {
+class DemoApplicationTests {
 
     @Test
     void contextLoads() {
